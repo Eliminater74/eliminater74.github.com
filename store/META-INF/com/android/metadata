@@ -1,0 +1,3 @@
+post-build=lge/g3_att_us/g3:4.4.2/KVT49L.D85010d/D85010d.1403173065:user/release-keys
+post-timestamp=1417150631
+pre-device=d850

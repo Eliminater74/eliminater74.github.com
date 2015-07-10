@@ -1,0 +1,354 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (Android SignApk)
+
+Name: data/UKM/config.json.generate.storage
+SHA1-Digest: 3M+LIEiuu9wQwbfTklHYKP4HXJA=
+
+Name: data/UKM/device/deb.sh
+SHA1-Digest: WqUomTuow3OpOzN78jvhplHlcNg=
+
+Name: data/UKM/SkyHigh/dns
+SHA1-Digest: 5fpE8rMcH7VTtgIec2DQfV2R/14=
+
+Name: data/UKM/files/wake_prof
+SHA1-Digest: CdKvjdIiAd2NSOXc/K7Sgf+UIsc=
+
+Name: data/UKM/actions/mpdboostfreq
+SHA1-Digest: c6L+yZq8Ef7oisQ442Kp4AVYHss=
+
+Name: data/UKM/config.json.generate.bprop
+SHA1-Digest: /pG+A3lAaFEii79zkxRt52boEGI=
+
+Name: data/UKM/config.json.generate.hotplug
+SHA1-Digest: B+hBIKzjhKVchA004CkAJ/mhdLg=
+
+Name: data/UKM/actions/UKSM_gov
+SHA1-Digest: BiHsyP0cguBrXlUGaG1PQuhLhl8=
+
+Name: data/UKM/files/lmk_prof
+SHA1-Digest: tYG+dDpYa7B74/uhB1vBW5zftUI=
+
+Name: data/UKM/actions/minfree
+SHA1-Digest: i7Nh61u2S+vQm5B2QVceFyfTrK4=
+
+Name: data/UKM/actions/whitelist
+SHA1-Digest: xttPo/o2USos74aSu1GrrYtbcic=
+
+Name: data/UKM/config.json.generate
+SHA1-Digest: ZxPT/ySHXtkgcn+ygK6vlTocduo=
+
+Name: data/UKM/actions/powersuspend
+SHA1-Digest: i0Sm7eqo1Kunw8PwaUTlp6zeilk=
+
+Name: data/UKM/config.json.generate.tools
+SHA1-Digest: v8/9TiOzF8opVBnsMMtYdS/nHMY=
+
+Name: data/UKM/actions/sync
+SHA1-Digest: 1myqw6eK/SQs3pzZJsV8OhVjiI4=
+
+Name: data/UKM/UKM
+SHA1-Digest: OOfdw9zw4UkBHgdBAYL6qMSHWHU=
+
+Name: data/UKM/busybox
+SHA1-Digest: 2e25Xs6QVFwAtsVFPvut3BkDlvE=
+
+Name: data/UKM/files/gammafrancoN5_prof
+SHA1-Digest: D6H/jl6H7oO/sYR0tQvBt5IBiDA=
+
+Name: data/UKM/config.json.generate.stats
+SHA1-Digest: n0dXQbRa21wSX2fYQ/PUidRaBBQ=
+
+Name: data/UKM/actions/fuel-gauge
+SHA1-Digest: 3cSNC+0hfGXqTWCf408wyayAsB8=
+
+Name: data/UKM/SkyHigh/gps_zone
+SHA1-Digest: CdKvjdIiAd2NSOXc/K7Sgf+UIsc=
+
+Name: data/UKM/config.json.generate.fast
+SHA1-Digest: /+Eglc0HxaxOOH2w4GJcI8tNpHM=
+
+Name: data/UKM/config.json.generate.sysctl
+SHA1-Digest: dRQ9uj0zRS+aLgDqaJWSAHti9TE=
+
+Name: boot.img
+SHA1-Digest: V0TO1185ATIuIviODrArzZfT4XU=
+
+Name: data/UKM/actions/network
+SHA1-Digest: K36mIs9o6Kc7aOv525cYedIPA04=
+
+Name: data/UKM/config.json.generate.mem
+SHA1-Digest: zSKh5g7cfWLu1LQFlYfqt1UVet8=
+
+Name: data/UKM/actions/usb
+SHA1-Digest: M+wYfldLF7Wc5moCr6QiF6k4j0w=
+
+Name: data/UKM/actions/bracket-option
+SHA1-Digest: 6mDuJAVQ7YlDZ8Eu7bPj9lIOH+4=
+
+Name: data/UKM/config.json.generate.advanced
+SHA1-Digest: UaNKC3O0ju+WZu4m3jyDR/RMD2A=
+
+Name: data/UKM/config.json.generate.driver
+SHA1-Digest: sNQZNst6VyW/rTKMQJPaqEDo2Bs=
+
+Name: data/UKM/actions/serviceset
+SHA1-Digest: GyAc56rjhO4xNpy3NuOAtUpyF9I=
+
+Name: data/UKM/config.json.generate.status
+SHA1-Digest: 2HzQt2eKwjK+4zQCx3p3u4+GK+U=
+
+Name: data/UKM/config.json.generate.cpuvolt
+SHA1-Digest: qvloT2O/OeqZ9Ryhzib4awd8d6Q=
+
+Name: data/UKM/actions/boolean
+SHA1-Digest: E3K6WWdFblRNbgIvg96COK7NGSg=
+
+Name: data/UKM/actions/screen
+SHA1-Digest: XowOTMQX9YG8LqDl7ufcSiDeKcQ=
+
+Name: data/UKM/actions/wake
+SHA1-Digest: D1YY2dgooGY9D5V4WWfYx9VTmVw=
+
+Name: data/UKM/files/volt_prof
+SHA1-Digest: CdKvjdIiAd2NSOXc/K7Sgf+UIsc=
+
+Name: data/UKM/device/maguro.sh
+SHA1-Digest: 0rHetwGw2RCnyhHJRABK8ACUxyU=
+
+Name: data/UKM/config.json.generate.cpu
+SHA1-Digest: 4dnEMKINaMEatafxwsdM9IBQlzI=
+
+Name: data/UKM/config.json.generate.info
+SHA1-Digest: yrXunuVO3iDniVix0YDvBWqQqgs=
+
+Name: data/UKM/config.json.generate.logs
+SHA1-Digest: Q7Qwx3duuLnOFNGnmB2nA05R63k=
+
+Name: data/UKM/config.json.generate.gpu
+SHA1-Digest: 679UVjfWA+S6wQEXdcy/6jlZIus=
+
+Name: data/UKM/actions/generic
+SHA1-Digest: VqJAjn3TYoPkERjoEnoWvMZV8q0=
+
+Name: data/UKM/config.json.generate.adv
+SHA1-Digest: grKPOS40hZm/kUSt/fSM/XV3cbY=
+
+Name: META-INF/org/cyanogenmod/releasekey
+SHA1-Digest: eJIKuOWyms0pOrJairA/tHqOCQI=
+
+Name: data/UKM/actions/printk
+SHA1-Digest: taNaH4NpkMvEfWYQjl7FRI24Chg=
+
+Name: data/UKM/config.json.generate.wake
+SHA1-Digest: ag5DdLxX6DUKWUZbJVcZMpiXeh8=
+
+Name: data/UKM/actions/soundfaux
+SHA1-Digest: sQ3puidGMb2283jjDJIec9Dk4I0=
+
+Name: data/UKM/UKM.sh
+SHA1-Digest: TeYdQMEpbg412+cPx10rHON6DvA=
+
+Name: data/UKM/config.json.generate.reboot
+SHA1-Digest: 7uXWn+WK6YVQs7tU7uLmK9xzviM=
+
+Name: META-INF/com/android/otacert
+SHA1-Digest: 71Q6Rn2DDZl1zPDVaaeEHItd+Yg=
+
+Name: data/UKM/files/gammafranco_prof
+SHA1-Digest: vDjV+itRpalVjAXQcSrUQmSnmCQ=
+
+Name: data/UKM/actions/cpuset
+SHA1-Digest: 9w0qPoyqADw/tAkCxLHsls0kWyE=
+
+Name: data/UKM/actions/socset
+SHA1-Digest: y5d/J7c/8I7u2vAJdN0sebN0YaA=
+
+Name: data/UKM/actions/default
+SHA1-Digest: t1AvRkL8lv9HhSn3zV/ucTj1QxE=
+
+Name: data/UKM/actions/fast
+SHA1-Digest: T6F3RBBZV2LR14Fh4/C0BfUiy6s=
+
+Name: data/UKM/SkyHigh/keyboard
+SHA1-Digest: CdKvjdIiAd2NSOXc/K7Sgf+UIsc=
+
+Name: data/UKM/SkyHigh/mass_storage
+SHA1-Digest: CdKvjdIiAd2NSOXc/K7Sgf+UIsc=
+
+Name: data/UKM/actions/log
+SHA1-Digest: jTQ5FSVDDILIVTc+ga1vKRmf744=
+
+Name: data/UKM/device/.device.sh
+SHA1-Digest: MrROBCw6Y5hO51rx0mdCGwQ37ik=
+
+Name: data/UKM/actions/zram
+SHA1-Digest: GuOJtzB6WoCSyZenRZDqBx4Z07k=
+
+Name: data/UKM/actions/output
+SHA1-Digest: UU0vXFWWCHrcVcM+5TsHdUN2yRs=
+
+Name: META-INF/com/google/android/updater-script
+SHA1-Digest: +J7kS5MYZw69+BwbveBYqKr8eCI=
+
+Name: data/UKM/actions/scheduler
+SHA1-Digest: BiHsyP0cguBrXlUGaG1PQuhLhl8=
+
+Name: data/UKM/actions/cpuvolt
+SHA1-Digest: 5DMabnF9EpxiHkiNtL0j9mPW7x8=
+
+Name: data/UKM/config.json.generate.network
+SHA1-Digest: B63jGhEasG2mlvttyDLk22EeByc=
+
+Name: data/UKM/actions/touch
+SHA1-Digest: dNcciVtGaIMBi9fcfHhfcPvogFY=
+
+Name: data/UKM/actions/gpuset
+SHA1-Digest: PvrCbG7R1LGWLxoKLDSSwwvL+NI=
+
+Name: data/UKM/config.json.generate.screen
+SHA1-Digest: WRNuY/WlAScqOPJIrzGWQyf9gSI=
+
+Name: data/UKM/sqlite3
+SHA1-Digest: Joa7LZZx7+XHnekhP+aG76YJnD8=
+
+Name: data/UKM/files/bck_prof
+SHA1-Digest: 0KbiSmgicQnP0AFbDNbaTjcdkds=
+
+Name: data/UKM/actions/buildprop
+SHA1-Digest: oqmN4iF6sFgOuf8udsNj40XePuA=
+
+Name: data/UKM/files/gamma_prof
+SHA1-Digest: tYG+dDpYa7B74/uhB1vBW5zftUI=
+
+Name: META-INF/com/android/metadata
+SHA1-Digest: /3Rio++GsO15EPz4QbDoSgbcLlc=
+
+Name: data/UKM/files/dropcaches_prof
+SHA1-Digest: CdKvjdIiAd2NSOXc/K7Sgf+UIsc=
+
+Name: data/UKM/config.json.generate.misc
+SHA1-Digest: GHiB4SJkp2sPK2ERG37Gtz29xW0=
+
+Name: data/UKM/actions/storage
+SHA1-Digest: Y0TXqGq+ULMGhpHTCwOC6ZPEzOM=
+
+Name: data/UKM/device/hammerhead.sh
+SHA1-Digest: noB1iM/x8D/eWe8E4ZzUdm47BKw=
+
+Name: data/UKM/actions/input
+SHA1-Digest: x7rEpH/6+3++gqgQCah4I++GEzg=
+
+Name: META-INF/com/google/android/update-binary
+SHA1-Digest: BHbEcL3J+5eWangyrw1OAQ/grNQ=
+
+Name: data/UKM/device/bacon.sh
+SHA1-Digest: 8IM9lhzFkarUR1uianukUI9SIAc=
+
+Name: data/UKM/files/gammafaux_prof
+SHA1-Digest: XUziPJr+Tegln4bBlXtE2N9dUHk=
+
+Name: data/UKM/config.json.generate.gamma
+SHA1-Digest: K3J+YIIG/GmEWoliz6v0GTRSEB0=
+
+Name: data/UKM/actions/restorebackup
+SHA1-Digest: x6E/ARQilZAc9LYFXTid3y9Tio0=
+
+Name: data/UKM/actions/intellithermal
+SHA1-Digest: BSFdfwlODPD5DHhH8fhBn4T85tg=
+
+Name: data/UKM/actions/voltage
+SHA1-Digest: eUhRVtjegxSB3/IlolT2C3npHIc=
+
+Name: data/UKM/config.json.generate.sound
+SHA1-Digest: 7FxdUF1oyq9wn+I/KmthSmjNqAM=
+
+Name: data/UKM/config.json.generate.cpugov
+SHA1-Digest: xzODNQIH2xaJSPydAZI7pzb7rKc=
+
+Name: data/UKM/actions/lmk
+SHA1-Digest: /ZejnUE4VuZb2JEbgwPMaMcw1No=
+
+Name: data/UKM/actions/speakerfaux
+SHA1-Digest: O03TfKF9pHKffRLxTqYmStGqtAw=
+
+Name: data/UKM/actions/dropcaches
+SHA1-Digest: sNAlBSs4KfW4g5h4kgpYnlb2NUY=
+
+Name: data/UKM/uci
+SHA1-Digest: i0NvoC3L2Z6OWycSGEyzSlkFLV8=
+
+Name: data/UKM/actions/show
+SHA1-Digest: tvNVqmNQxa9/LaBOVmH2uWdoisI=
+
+Name: data/UKM/files/speaker_prof
+SHA1-Digest: tYG+dDpYa7B74/uhB1vBW5zftUI=
+
+Name: data/UKM/actions/suspend
+SHA1-Digest: 53y5bvrOyLjRncyaoFeDoDcGpD8=
+
+Name: data/UKM/SkyHigh/tcp_speed
+SHA1-Digest: 5fpE8rMcH7VTtgIec2DQfV2R/14=
+
+Name: data/UKM/config.json.generate.thermal
+SHA1-Digest: aDccEBAwRJFfbyoHDH2Tm3LLsFM=
+
+Name: data/UKM/actions/devtools
+SHA1-Digest: IczVZioSzC8QH9BDS3qwEeH/RRE=
+
+Name: data/UKM/debug/speed_bin
+SHA1-Digest: 2jmj7l5rSw0yVb/vlWAYkK/YBwk=
+
+Name: data/UKM/actions/cpuboostibf
+SHA1-Digest: eZ4CHVbnFQDhIl0BiTYeL9LwHpI=
+
+Name: data/UKM/config.json.generate.backup-restore
+SHA1-Digest: 8ZtIrw6r56fD2OPaSE8csGXbgPU=
+
+Name: data/UKM/device/mako.sh
+SHA1-Digest: 5Jq9i55fFVbU8dqYnOIgDO4VLIs=
+
+Name: data/UKM/files/sound_prof
+SHA1-Digest: tYG+dDpYa7B74/uhB1vBW5zftUI=
+
+Name: data/UKM/actions/sqlite
+SHA1-Digest: yPi58D3jTMTusBW3GfIxrjMZgCk=
+
+Name: data/UKM/actions/gamma
+SHA1-Digest: AcpnGrCTydAWk6y4Zs8mZxp3cs4=
+
+Name: data/UKM/debug/last_kmsg
+SHA1-Digest: 2jmj7l5rSw0yVb/vlWAYkK/YBwk=
+
+Name: data/UKM/config.json.generate.kernel
+SHA1-Digest: 9KUDVXNR4qMkT2iPgirLm8XyK58=
+
+Name: data/UKM/config.json.generate.led
+SHA1-Digest: Y+94WWIrH/tXYvT3Mt3dQf/VMi4=
+
+Name: data/UKM/config.json.generate.speaker
+SHA1-Digest: Tq0z9pPEk+R4X0KM2XpuKGWowFg=
+
+Name: data/UKM/SkyHigh/tcp_security
+SHA1-Digest: 5fpE8rMcH7VTtgIec2DQfV2R/14=
+
+Name: data/UKM/config.json.generate.io
+SHA1-Digest: SCu9LV+KByu1iA5CCZ0jBJxFcr4=
+
+Name: data/UKM/debug/pvs_bin
+SHA1-Digest: 2jmj7l5rSw0yVb/vlWAYkK/YBwk=
+
+Name: data/UKM/actions/numeric
+SHA1-Digest: xF9s7j+n8uwR6G2Xvj1k7+mSmKw=
+
+Name: data/UKM/config.json.generate.error
+SHA1-Digest: +YWgBvRHTiA+cAQ+KjdT7Or8uEo=
+
+Name: data/UKM/actions/ioset
+SHA1-Digest: nCV3L/D8vAUVQXi1x8LziLdsr2Y=
+
+Name: data/UKM/actions/live
+SHA1-Digest: Rx/6uJnWiuGfuPwc2gPspbh/u/c=
+
+Name: data/UKM/config.json.generate.profile
+SHA1-Digest: JnmuyJq3Wnhqk7AJcNIxZMYp9qI=
+

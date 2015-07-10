@@ -1,0 +1,117 @@
+cat << CTAG
+{
+	name:INFO,
+		elements:[
+			{ SPane:{
+				title:{
+					en:"General",
+					es:"General"
+				},
+			}},	
+				{ SDescription:{
+					description:"Welcome to the Universal Kernel Manager."
+				}},
+				{ SDescription:{
+					description:"NebulaKernel Rev6.0 W/MultiRom Support"
+				}},
+				{ SDescription:{
+					description:"XDA Link: <a href='http://forum.xda-developers.com/tmobile-lg-g3/development/kernel-nebulakernel-t3144145'>NebulaKernel</a>"
+				}},
+				{ SDescription:{
+					description:"XDA Link: <a href='http://forum.xda-developers.com/tmobile-lg-g3/development/rom-pac-rom-beta-1-lp-5-0-2-t3083910'>Pac-Man Rom</a>"
+				}},
+				{ SDescription:{
+					description:"XDA Link: <a href='http://forum.xda-developers.com/tmobile-lg-g3/development/multirom-resurrected-d851-testers-t3068340'>MultiRom Resurrected</a>"
+				}},
+				{ SPane:{
+					title:"Special thanks to"
+				}},
+					{ SDescription:{
+						description:"> <a href='http://forum.xda-developers.com/member.php?u=4794976'>@777Jon</a>"
+					}},
+					{ SDescription:{
+						description:"> <a href='http://forum.xda-developers.com/member.php?u=5721071'>@Fechinator</a>"
+					}},
+					{ SDescription:{
+						description:"> <a href='http://forum.xda-developers.com/member.php?u=3418703'>@Tasssadar</a>"
+					}},
+					{ SDescription:{
+						description:"> <a href='http://forum.xda-developers.com/member.php?u=3771760'>@aclegg2011</a>"
+					}},
+			{ SPane:{
+				title:{
+					en:"Device",
+					es:"Dispositivo"
+				},
+				description:"`getprop ro.product.model` (`getprop ro.product.device`)"
+			}},
+			{ SPane:{
+				title:{
+					en:"Android Version",
+					es:"Versión de Android"
+				},
+				description:"`getprop ro.build.version.release`"
+			}},
+			{ SPane:{
+				title:{
+					en:"Kernel Version",
+					es:"Versión del Núcleo"
+				},
+				description:"`$BB cat /proc/version`"
+			}},
+			{ SPane:{
+				title:{
+					en:"ROM Description",
+					es:"Descripción del ROM"
+				},
+				description:"`getprop ro.build.host | $BB awk '{print toupper($0)}'`"
+			}},
+			{ SPane:{
+				title:{
+					en:"ROM Version",
+					es:"Versión del ROM"
+				},
+				description:"`MODVER=\`getprop ro.modversion\`;
+					if [ -n $MODVER ]; then 
+						$BB echo $MODVER;
+					else 
+						$BB echo \`getprop ro.build.version.incremental\`;
+					fi;`"
+			}},
+			{ SPane:{
+				title:{
+					en:"Build Date",
+					es:"Fecha del ROM"
+				},
+				description:"`getprop ro.build.date`"
+			}},
+			{ STitleBar:{
+				title:{
+					en:"SOC Binning",
+					es:"SOC Binning"
+				}
+			}},
+				{ SDescription:{
+					description:"ACPU PVS:`$BB cat $UKM/debug/pvs_bin`"
+				}},
+				{ SDescription:{
+					description:"The higher value of the binning, the lower voltages your device can run."
+				}},
+				{ SDescription:{
+					description:"SPEED BIN:`$BB cat $UKM/debug/speed_bin`"
+				}},
+				{ SDescription:{
+					description:"The higher value of the speed, the higher frequencies your device can run."
+				}},
+			{ STitleBar:{
+				title:{
+					en:"Last KMSG",
+					es:"Ultimo KMSG"
+				}
+			}},
+				{ SDescription:{
+					description:"`$BB cat $UKM/debug/last_kmsg`"
+				}},
+		]
+}
+CTAG
