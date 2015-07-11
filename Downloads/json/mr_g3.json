@@ -8,17 +8,17 @@
             "files": [
                 {
                     "url": "https://github.com/Eliminater74/eliminater74.github.com/raw/master/Downloads/MR_D851/multirom-20150710-v32-UNOFFICIAL-d851.zip",
-                    "version": "31a",
+                    "version": "32",
                     "type": "multirom",
-                    "size": 3613365,
-                    "md5": "e0f2c42f4722a96bf4b40af2fa0646c1"
+                    "size": 3927676,
+                    "md5": "71568b13e7267fb2e7b40ea02e3f394f"
                 },
                 {
                     "url": "https://github.com/Eliminater74/eliminater74.github.com/raw/master/Downloads/MR_D851/TWRP_MultiRom_2.8.7.x_20150710-signed.zip",
                     "version": "mrom20150215-00",
                     "type": "recovery",
-                    "size": 10084352,
-                    "md5": "aed98a197f02a4691fd9ac2f4d90e7ac"
+                    "size": 12930748,
+                    "md5": "e1fdcb7c359bca95bd919f5e14618615"
                 },
                 {
                     "extra": {
@@ -28,9 +28,9 @@
                     },
                     "url": "https://github.com/Eliminater74/eliminater74.github.com/raw/master/Downloads/MR_D851/NebulaKernel_Rev6.0__MR_20150708-signed.zip",
                     "version": "NebulaKernel Rev6.0 W/MultiRom Support Build:20150708",
-                    "md5": "9bbda1d49a0a69f8928165ab2e075932",
+                    "md5": "125331085eb224fb2ecb02b45c59e7bc",
                     "type": "kernel",
-                    "size": 9182443
+                    "size": 7215867
                 },
                 {
                     "extra": {
@@ -40,9 +40,9 @@
                     },
                     "url": "https://github.com/Eliminater74/eliminater74.github.com/raw/master/Downloads/MR_D851/multirom_uninstaller.zip",
                     "version": "v32",
-                    "md5": "786990f730b73a742e39f54dd91527e5",
+                    "md5": "63c7a241a90f65e8a1b2b9c2ce2f04ed",
                     "type": "uninstaller",
-                    "size": 9184490
+                    "size": 1622965
                 }
             ],
             "changelogs": [
