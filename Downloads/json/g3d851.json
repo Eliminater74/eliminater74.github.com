@@ -2,11 +2,11 @@
 	"name" : "<b><font color=\"#FFFFFF\">NebulaKernel</font></b>",
 	"short_description" : "A kernel by <b>Eliminater74</b>",
 	"long_description" : "NebulaKernel by Eliminater74 based on 777 Kernel by 777jon",
-	"logo" : "https://lh3.googleusercontent.com/IwA7Q9GUguQE5C8IfunQndahTfaRQJl3qmnREcDGD2M=w738-h755-no",
-	"xda" : "http://forum.xda-developers.com/showthread.php?t=2405306",
+	"logo" : "http://forum.xda-developers.com/signaturepics/sigpic5687366_8.gif",
+	"xda" : "http://forum.xda-developers.com/showthread.php?t=3144145",
 	"github" : "https://github.com/Eliminater74/eliminater74.github.com",
-	"google_plus" : "",
-	"paypal" : "",
+	"google_plus" : "https://plus.google.com/u/0/+MichaelHarrell-Eliminater74",
+	"paypal" : "https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=6VQMY9N9ZU7S8",
 	"features" : [
 		"Linux Kernel 3.4.208",
 		"Built with SaberMod ToolChains v6.0", {
@@ -58,7 +58,7 @@
 	"downloads" : [{
 			"name" : "1.5",
 			"description" : "<b>Only for <i>4.4, 4.3, 4.2</i> and <i>CM based ROMs</i></b>",
-			"url" : "https://github.com/Grarak/grarak.github.io/raw/master/i9103/grakernel/gk_1.5.zip",
+			"url" : "https://github.com/Eliminater74/eliminater74.github.com/raw/master/Downloads/D851/NebulaKernel_Rev6.0__MR_20150708-signed.zip",
 			"md5sum" : "bd60663d5b1ae24a1f9a09f977f8b5e3",
 			"changelog" : [
 				"remove fastcharge",
